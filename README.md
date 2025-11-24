@@ -1,15 +1,22 @@
 <p align="center">
-  <img width="80%" alt="Hello, I'm Firas. Welcome to my GitHub!" src="./assets/gh-readme-header.png" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Firas+Ben+Slimen!;" />
 </p>
 
-<h1 align="center">Hello, I'm Firas Ben Slimen 👋</h1>
-
-<h3 align="center">Full-Stack Developer | Computer Science Student</h3>
+<h1 align="center">Full-Stack Developer | Computer Science Student</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/firasbs25/">LinkedIn</a> •
-  <a href="https://github.com/Firasbs23">GitHub</a> •
-  <a href="mailto:firas.benslimen@example.com">Contact</a>
+  <a href="https://www.linkedin.com/in/firasbs25/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Firasbs23">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="tel:+21692577246">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+  </a>
+  <a href="mailto:benslimennnfiras@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
@@ -19,8 +26,8 @@
 I'm a passionate **Full-Stack Developer** from Tunisia 🇹🇳, currently pursuing my Computer Science degree at **ISET Le Kef**. I specialize in building modern web applications using cutting-edge technologies.
 
 ### 🎯 Current Focus
-- 🔭 Working on **TeamLink** - A collaborative team management platform
-- 🌱 Learning **Next.js**, **TypeScript**, and **React Native**
+- 🔭 Working on **TunCraft** - An app to facilitate contact between craftsmen and clients
+- 🌱 Learning **Next.js**, **Vue.js**, **TypeScript**, and **React Native**
 - 💼 Developing **NetLinkAs** (Final Year Project)
 - 🚀 Interested in **Software Architecture** and **System Design**
 
@@ -35,6 +42,7 @@ I'm a passionate **Full-Stack Developer** from Tunisia 🇹🇳, currently pursu
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=white" alt="i18next" />
 </p>
 
 ### 🚀 Backend
@@ -43,13 +51,18 @@ I'm a passionate **Full-Stack Developer** from Tunisia 🇹🇳, currently pursu
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Multer-000000?style=for-the-badge" alt="Multer" />
 </p>
 
-### 🛠️ Tools
+### 🛠️ Tools & Utilities
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpMyAdmin&logoColor=white" alt="phpMyAdmin" />
 </p>
 
 ---
@@ -65,35 +78,30 @@ I'm a passionate **Full-Stack Developer** from Tunisia 🇹🇳, currently pursu
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Firasbs23&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firasbs23&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Firasbs23&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 💼 Featured Projects
 
 ### 🎓 **NetLinkAs** - Final Year Project
 > **Networking Equipment Management System**
 > 
-> 🔧 **Tech Stack:** React, Node.js, Express, MongoDB  
+> 🔧 **Tech Stack:** React, Node.js, Express, PostgreSQL
 > 🎯 **Features:** Network device inventory, real-time monitoring, automated reporting  
 > 📊 **Status:** ✅ Completed
 
-
-### 🛍️ **tunCraft** - E-commerce Platform
+### 🛍️ **TunCraft** - E-commerce Platform
 > **Local Artisanal Products Marketplace**
 > 
-> 🛒 **Tech Stack:** MERN Stack  
-> 🎨 **Features:** Product catalog, shopping cart, secure payments  
-> 📱 **Status:** 📋 Planning Phase
+> 🛒 **Tech Stack:** MERN Stack (MySQL, Express, React, Node.js)
+> 🎨 **Features:** Multi-language support (i18n), secure authentication (JWT), file upload (Multer), responsive design
+> 📱 **Status:** 🚧 Development Phase
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Firasbs23&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firasbs23&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
@@ -106,7 +114,10 @@ I'm a passionate **Full-Stack Developer** from Tunisia 🇹🇳, currently pursu
   <a href="https://github.com/Firasbs23">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:firas.benslimen@example.com">
+  <a href="tel:+21692577246">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="mailto:benslimennnfiras@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
