@@ -98,18 +98,6 @@ I'm a passionate **Full-Stack Developer** from Tunisia 🇹🇳, currently pursu
 > 
 > 📱 **Status:** 🚧 Development Phase
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Firasbs23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firasbs23&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Firasbs23&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
