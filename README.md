@@ -84,14 +84,18 @@ I'm a passionate **Full-Stack Developer** from Tunisia 🇹🇳, currently pursu
 > **Networking Equipment Management System**
 > 
 > 🔧 **Tech Stack:** React, Node.js, Express, PostgreSQL
-> 🎯 **Features:** Network device inventory, real-time monitoring, automated reporting  
+> 
+> 🎯 **Features:** Network device inventory, real-time monitoring, automated reporting
+> 
 > 📊 **Status:** ✅ Completed
 
 ### 🛍️ **TunCraft** - E-commerce Platform
 > **Local Artisanal Products Marketplace**
 > 
 > 🛒 **Tech Stack:** MERN Stack (MongoDB, Express, React, Node.js)
+> 
 > 🎨 **Features:** Multi-language support (i18n), secure authentication (JWT), file upload (Multer), responsive design
+> 
 > 📱 **Status:** 🚧 Development Phase
 
 ---
@@ -99,8 +103,12 @@ I'm a passionate **Full-Stack Developer** from Tunisia 🇹🇳, currently pursu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Firasbs23&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firasbs23&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Firasbs23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firasbs23&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Firasbs23&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
