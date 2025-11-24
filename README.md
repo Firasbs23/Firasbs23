@@ -11,10 +11,10 @@
   <a href="https://github.com/Firasbs23">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="javascript:void(0);" onclick="showContactInfo()">
+  <a href="#contact-info">
     <img src="https://img.shields.io/badge/Contact-FF6B6B?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact" />
   </a>
-  <a href="javascript:void(0);" onclick="showEmailInfo()">
+  <a href="mailto:benslimennnfiras@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -114,30 +114,30 @@ I'm a passionate **Full-Stack Developer** from Tunisia 🇹🇳, currently pursu
   <a href="https://github.com/Firasbs23">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="javascript:void(0);" onclick="showContactInfo()">
+  <a href="#contact-info">
     <img src="https://img.shields.io/badge/Contact-FF6B6B?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="javascript:void(0);" onclick="showEmailInfo()">
+  <a href="mailto:benslimennnfiras@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
+## 📞 <span id="contact-info">Contact Information</span>
+
 <div align="center">
+
+**📞 Phone:** `+216 92 577 246`  
+**📧 Email:** `benslimennnfiras@gmail.com`  
+**💼 LinkedIn:** [firasbs25](https://www.linkedin.com/in/firasbs25/)
+
+*Feel free to reach out! I'll get back to you as soon as possible! 🚀*
+
+---
 
 ### 💡 "First, solve the problem. Then, write the code." - John Johnson
 
 ⭐️ From [Firasbs23](https://github.com/Firasbs23)
 
 </div>
-
-<script>
-function showContactInfo() {
-    alert("📞 Phone: +216 92 577 246\n\nFeel free to reach out! 😊");
-}
-
-function showEmailInfo() {
-    alert("📧 Email: benslimennnfiras@gmail.com\n\nI'll get back to you as soon as possible! 🚀");
-}
-</script>
