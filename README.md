@@ -11,10 +11,10 @@
   <a href="https://github.com/Firasbs23">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="tel:+21692577246">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+  <a href="javascript:void(0);" onclick="showContactInfo()">
+    <img src="https://img.shields.io/badge/Contact-FF6B6B?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact" />
   </a>
-  <a href="mailto:benslimennnfiras@gmail.com">
+  <a href="javascript:void(0);" onclick="showEmailInfo()">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -90,7 +90,7 @@ I'm a passionate **Full-Stack Developer** from Tunisia 🇹🇳, currently pursu
 ### 🛍️ **TunCraft** - E-commerce Platform
 > **Local Artisanal Products Marketplace**
 > 
-> 🛒 **Tech Stack:** MERN Stack (MySQL, Express, React, Node.js)
+> 🛒 **Tech Stack:** MERN Stack (MongoDB, Express, React, Node.js)
 > 🎨 **Features:** Multi-language support (i18n), secure authentication (JWT), file upload (Multer), responsive design
 > 📱 **Status:** 🚧 Development Phase
 
@@ -114,10 +114,10 @@ I'm a passionate **Full-Stack Developer** from Tunisia 🇹🇳, currently pursu
   <a href="https://github.com/Firasbs23">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="tel:+21692577246">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="javascript:void(0);" onclick="showContactInfo()">
+    <img src="https://img.shields.io/badge/Contact-FF6B6B?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:benslimennnfiras@gmail.com">
+  <a href="javascript:void(0);" onclick="showEmailInfo()">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -126,8 +126,18 @@ I'm a passionate **Full-Stack Developer** from Tunisia 🇹🇳, currently pursu
 
 <div align="center">
 
-### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
+### 💡 "First, solve the problem. Then, write the code." - John Johnson
 
 ⭐️ From [Firasbs23](https://github.com/Firasbs23)
 
 </div>
+
+<script>
+function showContactInfo() {
+    alert("📞 Phone: +216 92 577 246\n\nFeel free to reach out! 😊");
+}
+
+function showEmailInfo() {
+    alert("📧 Email: benslimennnfiras@gmail.com\n\nI'll get back to you as soon as possible! 🚀");
+}
+</script>
